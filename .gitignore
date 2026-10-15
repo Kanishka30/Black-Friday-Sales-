@@ -1,0 +1,25 @@
+# *
+# # Python cache
+# __pycache__/
+# *.py[cod]
+
+# # Jupyter / notebook checkpoints
+# .ipynb_checkpoints/
+# *.ipynb_checkpoints
+
+# # Virtual environments
+# .venv/
+
+# # Data and local database files
+# data/
+# *.db
+# *.sqlite3
+
+# # Machine learning / notebook outputs
+# catboost_info/
+# *.pkl
+# *.joblib
+
+# # OS / editor files
+# .DS_Store
+# Thumbs.db
